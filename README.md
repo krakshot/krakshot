@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**krakshot/krakshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```bash
+> sysinfo
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://avatars.githubusercontent.com/u/225235289?s=400&u=ecf75334f6d4282fd8c22d5f461374896db7430e&v=4" alt="logo" width="180" />
+
+```python
+──────────────────────────────
+
+No.
+
+──────────────────────────────
+```
+
+<br clear="left"/>
